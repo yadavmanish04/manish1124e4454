@@ -4,19 +4,6 @@
 <img align="right" alt="coding" width="400"
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
----
-
-- 🧑🏻‍💻 **Full-Time Developer** at **Pro Housy Point Tech Solutions Pvt. Ltd.**  
-  
-- 💼 Role: **Full-Stack Mobile App Developer**
-
-- 👨‍💻 GitHub: <h1 align="center">Hi 👋, I'm Prayas Jadaun</h1>
-<h3 align="center">Full-Stack Mobile App Developer</h3>
-
-<img align="right" alt="coding" width="400"
-     src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-
----
 
 - 🧑🏻‍💻 **Full-Time Developer** at **Pro Housy Point Tech Solutions Pvt. Ltd.**  
   
@@ -25,15 +12,9 @@
 - 👨‍💻 GitHub: https://github.com/prayasjadaun
 
 - 💬 **About Me**  
-  I’m Prayas Jadaun, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
+  I’m Manish yadav, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
   I specialize in building **scalable, high-performance Android and iOS applications** with clean architecture, secure API integration, and modern, user-centric UI/UX design.  
   My focus is on delivering **reliable, maintainable, and business-ready mobile solutions** that solve real-world problems.
-
-- 📫 Portfolio: https://prayasportfolio.vercel.app/
-
-- 📄 Resume:  
-  https://drive.google.com/file/d/1kQWckgDQXkaU8zcfoqE-XeRWeocuo_AC/view
-
 ---
 
 <h3 align="left">🌐 Connect with me</h3>
