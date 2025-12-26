@@ -9,7 +9,6 @@
   
 - 💼 Role: **Full-Stack Mobile App Developer**
 
-- 👨‍💻 GitHub: https://github.com/prayasjadaun
 
 - 💬 **About Me**  
   I’m Manish yadav, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
@@ -58,14 +57,9 @@
 ---
 
 - 💬 **About Me**  
-  I’m Prayas Jadaun, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
+  I’m Manish yadav, a Full-Stack Mobile Application Developer with expertise in **Flutter** for cross-platform mobile development and **Python Django** for backend systems.  
   I specialize in building **scalable, high-performance Android and iOS applications** with clean architecture, secure API integration, and modern, user-centric UI/UX design.  
   My focus is on delivering **reliable, maintainable, and business-ready mobile solutions** that solve real-world problems.
-
-- 📫 Portfolio: https://prayasportfolio.vercel.app/
-
-- 📄 Resume:  
-  https://drive.google.com/file/d/1kQWckgDQXkaU8zcfoqE-XeRWeocuo_AC/view
 
 ---
 
